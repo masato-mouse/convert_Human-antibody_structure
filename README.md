@@ -25,20 +25,44 @@ if you wanna show mouse-structure and human-structure on jupyter notebook, I put
 
 ## example
 
-I click 「search structure」 and 「search structiure by attribute」on SabDab.
-I click 「species : MUS MUSCULUS」and 「get Structure」.
-I select 1JP5 and copy Heavy chain and light chain on A/A.
+I click 「search structure」 and 「search structiure by attribute」on SabDab.  
+I click 「species : MUS MUSCULUS」and 「get Structure」.  
+I select 1JP5 and copy Heavy chain and light chain on A/A.  
 
 
 
 
 
-copy and save Heavy chain Sequence and light chain Sequence after convert Heavy chain and light chain with BioPhy.
+copy and save Heavy chain Sequence and light chain Sequence after convert Heavy chain and light chain with BioPhy.  
 
 
 
-access PDB and reseach 1JP5.
-click FASTA Sequence.
+access PDB and reseach 1JP5.  
+click and save FASTA Sequence.  
+
+
+
+
+
+convert 
+<mouse_Heavy chain Sequence　→ Human_Heavy chain Sequence> 
+EVQLQQSGPELKKPGETVKISCKATNYAFTDYSMHWVKQAPGGDLKYVGWINTETDEPTFADDFKGRFAFSLDTSTSTAFLQINNLKNEDTATYFCVRDRHDYGEIFTYWGQGTTVTVSS  
+↓  
+QVQLVQSGSELKKPGASVKVSCKASGYTFTSYAMHWVRQAPGQGLEWMGWINTNTGNPTYAQGFTGRFVFSLDTSVSTAYLQISSLKAEDTAVYYCARDRHDYGEIFDYWGQGTLVTVSS  
+
+<mouse_light chain Sequence → Human_light chain Sequence>  
+DILMTQTPLYLPVSLGDQASISCRSSQTIVHNNGNTYLEWYLQKPGQSPQLLIYKVSNRFSGVPDRFSGSGSGTDFTLKISRVEAEDLGIYYCFQGSHFPPTFGGGTKLEIK  
+↓  
+DIVMTQTPLSLPVTLGQPASISCRSSQSLVHSNGNTYLYWYLQKPGQSPQLLIYKVSNRFSGVPDRFSGSGSGTDFTLKISRVEAEDVGVYYCMQGLHFPPTFGQGTKVEIK
+
+
+<1JP5 mouse_all Sequence>
+<span style="color: green">DILMTQTPLYLPVSLGDQASISCRSSQTIVHNNGNTYLEWYLQKPGQSPQLLIYKVSNRFSGVPDRFSGSGSGTDFTLKISRVEAEDLGIYYCFQGSHFPPTFGGGTKLEIK</span>GGGGSGGGGSGGGGS<span style="color: red">EVQLQQSGPELKKPGETVKISCKATNYAFTDYSMHWVKQAPGGDLKYVGWINTETDEPTFADDFKGRFAFSLDTSTSTAFLQINNLKNEDTATYFCVRDRHDYGEIFTYWGQGTTVTVSS</span>
+
+<1JP5 human _all Sequence>
+<span style="color: green">DIVMTQTPLSLPVTLGQPASISCRSSQSLVHSNGNTYLYWYLQKPGQSPQLLIYKVSNRFSGVPDRFSGSGSGTDFTLKISRVEAEDVGVYYCMQGLHFPPTFGQGTKVEIK</span>GGGGSGGGGSGGGGS<span style="color: red">QVQLVQSGSELKKPGASVKVSCKASGYTFTSYAMHWVRQAPGQGLEWMGWINTNTGNPTYAQGFTGRFVFSLDTSVSTAYLQISSLKAEDTAVYYCARDRHDYGEIFDYWGQGTLVTVSS</span>
+
+
 
 
 
