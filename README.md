@@ -19,6 +19,7 @@ And use Alphafold2, contribute mouse-antibody structure and human-antibody struc
 ⑨ copyed FASTA sequence rewrite VH and VL(⑥)  
 ⑩ access Alphafold2 and insert rewrite Sequence  
 
+
 → you will show human-antibody structure
 if you wanna show mouse-structure and human-structure on jupyter notebook, I put code later. 
 
@@ -26,7 +27,10 @@ if you wanna show mouse-structure and human-structure on jupyter notebook, I put
 ## example
 
 I click 「search structure」 and 「search structiure by attribute」on SabDab.  
+![Uploading スクリーンショット 2022-05-29 1.08.25.png…]()  
 I click 「species : MUS MUSCULUS」and 「get Structure」.  
+<img width="1440" alt="スクリーンショット 2022-05-29 1 08 27" src="https://user-images.githubusercontent.com/85027378/170833506-c5905f63-71a4-4b8a-b974-d88e6adc7e64.png">  
+
 I select 1JP5 and copy Heavy chain and light chain on A/A.  
 
 
