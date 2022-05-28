@@ -1,11 +1,11 @@
 # antibody-assesment
 
-Summary 
+## Summary 
 
 mouse-antibody convert human-antibody with BioPhy.  
 And use Alphafold2, contribute mouse-antibody structure and human-antibody structure.  
 
-method
+## method
 
 ① access SabDab(http://opig.stats.ox.ac.uk/webapps/newsabdab/sabdab/) and choose mouse-antibody   
 ② access BioPhy(https://biophi.dichlab.org/) and choose Humanize  
@@ -19,6 +19,41 @@ method
 ⑨ copyed FASTA sequence rewrite VH and VL(⑥)  
 ⑩ access Alphafold2 and insert rewrite Sequence  
 
--> you will show human-antibody structure
+→ you will show human-antibody structure
+if you wanna show mouse-structure and human-structure on jupyter notebook, I put code later. 
+
+
+## example
+
+I click 「search structure」 and 「search structiure by attribute」on SabDab.
+I click 「species : MUS MUSCULUS」and 「get Structure」.
+I select 1JP5 and copy Heavy chain and light chain on A/A.
+
+
+
+
+
+copy and save Heavy chain Sequence and light chain Sequence after convert Heavy chain and light chain with BioPhy.
+
+
+
+access PDB and reseach 1JP5.
+click FASTA Sequence.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
