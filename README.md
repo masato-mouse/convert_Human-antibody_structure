@@ -69,7 +69,7 @@ DIVMTQTPLSLPVTLGQPASISCRSSQSLVHSNGNTYLYWYLQKPGQSPQLLIYKVSNRFSGVPDRFSGSGSGTDFTLKI
 
 
 last, use Alphafold2, express Human-antibody Structure.
-
+(alphafpld2 URL:https://colab.research.google.com/github/sokrypton/ColabFold/blob/main/AlphaFold2.ipynb)
 insert human_all Sequence 
 
 
