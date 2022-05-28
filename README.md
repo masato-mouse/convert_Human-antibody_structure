@@ -27,18 +27,19 @@ if you wanna show mouse-structure and human-structure on jupyter notebook, I put
 ## example
 
 I click 「search structure」 and 「search structiure by attribute」on SabDab.  
-<img width="1440" alt="スクリーンショット 2022-05-29 1 08 25" src="https://user-images.githubusercontent.com/85027378/170833641-fcbb7721-3016-4638-a9c4-8dae53338bd0.png">  
-<img width="1440" alt="スクリーンショット 2022-05-29 1 08 31" src="https://user-images.githubusercontent.com/85027378/170833658-ffe976fe-2140-4943-bbe7-ca792ea93f38.png">  
+![スクリーンショット 2022-05-29 1 (3)](https://user-images.githubusercontent.com/85027378/170834080-f81fbe05-35c8-4616-b7d9-afb76d689bd2.png)　　
 
 I click 「species : MUS MUSCULUS」and 「get Structure」.
-<img width="1440" alt="スクリーンショット 2022-05-29 1 08 27" src="https://user-images.githubusercontent.com/85027378/170833709-6369624c-ea42-42e7-ad48-121e18be53a5.png">  
+![スクリーンショット 2022-05-29 1 (1)](https://user-images.githubusercontent.com/85027378/170834035-117dc5ab-48d5-440b-ad4d-6c92e247621f.png)
 
 I select 1JP5 and copy Heavy chain and light chain on A/A.  
-<img width="1440" alt="スクリーンショット 2022-05-29 1 08 27" src="https://user-images.githubusercontent.com/85027378/170833746-3d704886-6b89-4e38-a638-62366f75025b.png">
+![スクリーンショット 2022-05-29 1 (2)](https://user-images.githubusercontent.com/85027378/170834007-7f734b9c-c691-45a4-881d-3738cd2ac0be.png)
 
 
 
 copy and save Heavy chain Sequence and light chain Sequence after convert Heavy chain and light chain with BioPhy.  
+![スクリーンショット 2022-05-29 2](https://user-images.githubusercontent.com/85027378/170836148-46c61581-13fb-4c40-b271-c0eb193c9297.png)
+![スクリーンショット 2022-05-29 1 (4)](https://user-images.githubusercontent.com/85027378/170836150-82d7d0a6-bf7c-42c6-bff5-416022bf0b9c.png)
 
 
 
