@@ -27,13 +27,14 @@ if you wanna show mouse-structure and human-structure on jupyter notebook, I put
 ## example
 
 I click 「search structure」 and 「search structiure by attribute」on SabDab.  
-![Uploading スクリーンショット 2022-05-29 1.08.25.png…]()  
-I click 「species : MUS MUSCULUS」and 「get Structure」.  
-<img width="1440" alt="スクリーンショット 2022-05-29 1 08 27" src="https://user-images.githubusercontent.com/85027378/170833506-c5905f63-71a4-4b8a-b974-d88e6adc7e64.png">  
+<img width="1440" alt="スクリーンショット 2022-05-29 1 08 25" src="https://user-images.githubusercontent.com/85027378/170833641-fcbb7721-3016-4638-a9c4-8dae53338bd0.png">  
+<img width="1440" alt="スクリーンショット 2022-05-29 1 08 31" src="https://user-images.githubusercontent.com/85027378/170833658-ffe976fe-2140-4943-bbe7-ca792ea93f38.png">  
+
+I click 「species : MUS MUSCULUS」and 「get Structure」.
+<img width="1440" alt="スクリーンショット 2022-05-29 1 08 27" src="https://user-images.githubusercontent.com/85027378/170833709-6369624c-ea42-42e7-ad48-121e18be53a5.png">  
 
 I select 1JP5 and copy Heavy chain and light chain on A/A.  
-
-
+<img width="1440" alt="スクリーンショット 2022-05-29 1 08 27" src="https://user-images.githubusercontent.com/85027378/170833746-3d704886-6b89-4e38-a638-62366f75025b.png">
 
 
 
