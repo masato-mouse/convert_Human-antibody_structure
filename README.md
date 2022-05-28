@@ -64,6 +64,9 @@ DIVMTQTPLSLPVTLGQPASISCRSSQSLVHSNGNTYLYWYLQKPGQSPQLLIYKVSNRFSGVPDRFSGSGSGTDFTLKI
 
 
 
+last, use Alphafold2, express Human-antibody Structure.
+
+insert human_all Sequence 
 
 
 
