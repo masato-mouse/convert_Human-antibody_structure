@@ -19,9 +19,7 @@ And use Alphafold2, contribute mouse-antibody structure and human-antibody struc
 ⑨ copyed FASTA sequence rewrite VH and VL(⑥)  
 ⑩ access Alphafold2 and insert rewrite Sequence  
 
-
 → you will show human-antibody structure
-if you wanna show mouse-structure and human-structure on jupyter notebook, I put code later. 
 
 
 ## example
