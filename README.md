@@ -1,4 +1,4 @@
-# mouse_antibody structure convert Human_antibody atructure
+# mouse-antibody structure convert Human-antibody structure
 
 ## Summary 
 
